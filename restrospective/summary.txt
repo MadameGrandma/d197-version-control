@@ -1,0 +1,6 @@
+In part E1, the merge conflict was resolved by editing the README.md file on the main branch to remove the git markers and student ID. This proceeds with a single version of the README.md file, which removes the conflict and allows you to merge. 
+
+In part C I made the following changes:
+1. Edited the about.html file to correct grammar and spelling. I also added text about the business purpose.
+2. Edited the vision.html file to expound on the business vision statement, add a joke, and add a business purpose.
+3. Edited the customers.html file to correct spelling in customer reviews. 

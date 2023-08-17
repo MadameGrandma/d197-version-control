@@ -1,0 +1,54 @@
+commit f50e636daa53690ddb10cf7841d21078fdf86762
+Author: Taylor Hinson <thins15@wgu.edu>
+Date:   Thu Aug 17 01:08:21 2023 +0000
+
+    Add new directory
+
+commit c02a1edeb5287ccf32d0e0f8a9ecd92aa1d27aab
+Merge: 3d9b802 7574548
+Author: tjhinson <thins15@wgu.edu>
+Date:   Wed Aug 16 18:03:04 2023 -0700
+
+    Resolved conflict in README and main branch
+
+commit 3d9b802a5fa2fc66a32ad98438073a752b0b8542
+Author: tjhinson <thins15@wgu.edu>
+Date:   Wed Aug 16 17:51:30 2023 -0700
+
+    Added git version to README.md file
+
+commit 757454876889893f386b0a79432f0febb68bb995
+Author: tjhinson <thins15@wgu.edu>
+Date:   Wed Aug 16 17:43:08 2023 -0700
+
+    Added Student ID to README file on README branch
+
+commit 3e5cd8c70df5c229e8a5b10125211bbaa1a13387
+Author: tjhinson <thins15@wgu.edu>
+Date:   Wed Aug 16 17:38:34 2023 -0700
+
+    Corrected spelling and grammar in customer reviews
+
+commit a66ad083da3df0e6f32a646da4e6816f67e10470
+Author: tjhinson <thins15@wgu.edu>
+Date:   Wed Aug 16 17:36:59 2023 -0700
+
+    Expanded vision statement and business purpose.
+
+commit 4c8c3100014cb32164dc233f59ec80587d5056b5
+Author: tjhinson <thins15@wgu.edu>
+Date:   Wed Aug 16 17:35:38 2023 -0700
+
+    Corrected grammar and spelling. Expanded business statements.
+
+commit 124ef7206ba753e91f0cf645652e5e0b3fbe4d57
+Author: Taylor Hinson <thins15@wgu.edu>
+Date:   Thu Aug 17 00:32:19 2023 +0000
+
+    init commit
+
+commit 061ffa14a018151d99657253f97e7fd4b872a444
+Author: Taylor Hinson <thins15@wgu.edu>
+Date:   Thu Aug 17 00:30:27 2023 +0000
+
+    Initial commit
